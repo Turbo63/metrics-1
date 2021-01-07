@@ -18,7 +18,7 @@ inputs:
   # Defaults to the owner of "token"
   user:
     description: GitHub username
-    default: ""
+    default: "Turbo63"
 
   # Filepath of generated metrics (relative to repository root)
   filename:
