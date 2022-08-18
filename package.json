@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/lowlighter/metrics#readme",
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^4.0.0",
     "@octokit/graphql": "^4.5.8",
     "@octokit/rest": "^18.0.12",
